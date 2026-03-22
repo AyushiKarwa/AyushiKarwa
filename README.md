@@ -17,7 +17,7 @@ Hi 👋! My name is Ayushi Karwa and I'm a Full Stack Web Developer & AI Enthusi
 <div align="center">
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/AyushiKarwa)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/AyushiKarwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-karwa/)
 
 </div>
 
