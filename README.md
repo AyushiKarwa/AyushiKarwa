@@ -1,9 +1,9 @@
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ## 💫 About Me:
 
-</div>
-<p>
 Hi 👋! My name is Ayushi Karwa and I'm a Full Stack Web Developer & AI Enthusiast from India.<br>
 🔭 I'm currently building full stack web apps and exploring AI-powered features.<br>
 🌱 I'm currently learning Full Stack Development (React, Node.js, TypeScript) and Artificial Intelligence / Machine Learning.<br>
@@ -12,7 +12,15 @@ Hi 👋! My name is Ayushi Karwa and I'm a Full Stack Web Developer & AI Enthusi
 📫 How to reach me: <a href="https://github.com/AyushiKarwa">My GitHub</a><br>
 😄 Pronouns: She/Her<br>
 ⚡ Fun fact: I once built an entire feature at 2AM, and it actually worked on the first try!
-</p>
+
+</td>
+<td valign="top" align="right" width="40%">
+
+<img src="https://github.com/user-attachments/assets/4251858b-c527-4d0b-b2c7-7096a5e6303a" width="220" style="border-radius: 50%;" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
